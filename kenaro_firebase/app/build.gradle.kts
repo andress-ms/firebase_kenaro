@@ -49,7 +49,7 @@ dependencies {
 
     // ---------- Firebase (BoM keeps every lib in sync) ----------
     implementation(platform(libs.firebase.bom))
-    implementation(libs.firebase.database.ktx)        // Realtime Database; swap for firestore.ktx if you prefer
+    implementation(libs.firebase.analytics.ktx)
     // implementation(libs.firebase.firestore.ktx)
     implementation(libs.firebase.auth.ktx)
 
