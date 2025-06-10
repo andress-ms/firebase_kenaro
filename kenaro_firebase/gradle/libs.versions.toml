@@ -21,10 +21,10 @@ androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
-firebase-bom          = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" }
-firebase-analytics-ktx = { group = "com.google.firebase", name = "firebase-analytics-ktx", version.ref = "firebaseBom" }
-firebase-auth-ktx      = { group = "com.google.firebase", name = "firebase-auth-ktx", version.ref = "firebaseBom" }
-firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx", version.ref = "firebaseBom" }
+firebase-bom          = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom"}
+firebase-analytics-ktx = { group = "com.google.firebase", name = "firebase-analytics-ktx"}
+firebase-auth-ktx      = { group = "com.google.firebase", name = "firebase-auth-ktx"}
+firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx"}
 
 [plugins]
 android-application = { id = "com.android.application",     version = "8.1.0" }

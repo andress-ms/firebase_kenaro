@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "96999004719",
-    "project_id": "project-47419",
-    "storage_bucket": "project-47419.firebasestorage.app"
+    "project_number": "1026009360774",
+    "project_id": "kenaro-612c7",
+    "storage_bucket": "kenaro-612c7.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:96999004719:android:c82b110ad231f693d284da",
+        "mobilesdk_app_id": "1:1026009360774:android:594e3a8d55f8ba9e10e407",
         "android_client_info": {
-          "package_name": "com.example.firebaseconnection"
+          "package_name": "com.amms.kenaro"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBO173sg6YsE-RYOVAZa3P2eJA_grXlxjA"
+          "current_key": "AIzaSyCZCQDH0_ZZyL_htKqKRxUMNnl0cqdNLFg"
         }
       ],
       "services": {
