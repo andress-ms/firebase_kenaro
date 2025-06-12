@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.firebaseconnection"
+    namespace = "com.amms.kenaro"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.firebaseconnection"
+        applicationId = "com.amms.kenaro"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
